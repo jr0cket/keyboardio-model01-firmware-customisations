@@ -4,7 +4,7 @@ My personal customisation for the [Keyboardio Model01 keyboard](https://shop.key
 
 ## Current customisation
 
-* # and ~ keys on function layer via the quote key
+* hash and tilde keys mapped to function layer on the quote key
 
 
 ## Editing the keymap
